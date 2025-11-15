@@ -30,7 +30,7 @@ public class User { //N1
         }catch (Exception e) { } //Falha na conexão N7
         return conn; // retorna a conexão bem sucedida, ou não N8
     }
-    
+
     public String nome=""; //recebe o nome do usuario
     public boolean result = false; //resultado do login
     //verifica se o usuario existe
@@ -54,6 +54,7 @@ public class User { //N1
 
 }
 ```
+
 Representação gráfica
 
 ![N1](https://github.com/user-attachments/assets/f3caa19c-3599-4b1b-8f2f-16fe6a61b39c)
@@ -69,15 +70,19 @@ Componentes = 2
 
 18 - 17  + 2 * 2 = 5
 ```
+
 ## Caminhos Básicos
 
 ### Método conectarDB():
+
 ```
 N1 → N2 → N3 → N4 → N5 → N6 → N8 (conexão OK)
 
 N1 → N2 → N3 → N7 → N8 (conexão falhou)
 ```
+
 ### Método verificarUsuario():
+
 ```
 N9 → N10 → N11 → N12 → N13 → N14(sim) → N15 → N17
 
