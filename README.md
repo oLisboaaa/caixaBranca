@@ -4,8 +4,6 @@ Planilha: https://1drv.ms/x/c/c9374373c8f226c1/EZj4UkdKS_ZKjwGIaPfKun0BynOiAtCE9
 
 ![Screenshot_1](https://github.com/user-attachments/assets/976bd795-0463-4133-a265-2803a5779186)
 
-
-
 # Notação de Grafo de Fluxo
 
 ```
@@ -58,7 +56,7 @@ public class User { //N1
 ```
 Representação gráfica
 
-<img width="1920" height="1080" alt="N1" src="https://github.com/user-attachments/assets/1faa8de0-bebe-432c-b2fc-0df31f8f6a89" />
+![N1](https://github.com/user-attachments/assets/f3caa19c-3599-4b1b-8f2f-16fe6a61b39c)
 
 # Complexidade ciclomática
 
