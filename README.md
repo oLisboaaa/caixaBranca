@@ -69,15 +69,15 @@ Componentes = 2
 
 18 - 17  + 2 * 2 = 5
 ```
-# Caminhos Básicos
+## Caminhos Básicos
 
-## Método conectarDB():
+### Método conectarDB():
 ```
 N1 → N2 → N3 → N4 → N5 → N6 → N8 (conexão OK)
 
 N1 → N2 → N3 → N7 → N8 (conexão falhou)
 ```
-## Método verificarUsuario():
+### Método verificarUsuario():
 ```
 N9 → N10 → N11 → N12 → N13 → N14(sim) → N15 → N17
 
