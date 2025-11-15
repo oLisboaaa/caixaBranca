@@ -1,0 +1,5 @@
+{
+    "java.project.referencedLibraries": [
+        "Login/lib/**/*.jar",
+    ]
+}
