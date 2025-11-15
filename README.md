@@ -63,11 +63,11 @@ Representação gráfica
 ```
 M = E - N + 2P
 
-Arestas = 16
+Arestas = 18
 Nós = 17
-Componentes = 1
+Componentes = 2
 
-17 - 16 + 2 * 1 = 3
+18 - 17  + 2 * 2 = 5
 ```
 # Caminhos Básicos
 
